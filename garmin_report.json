@@ -1,7 +1,18 @@
 {
-  "generado": "2026-03-18 09:52",
+  "generado": "2026-03-18 10:12",
   "fecha": "2026-03-18",
-  "sueno": {},
+  "sueno": {
+    "fecha": "2026-03-18",
+    "sleep_score": null,
+    "horas_dormido": 8.3,
+    "deep_min": 71,
+    "light_min": 337,
+    "rem_min": 88,
+    "awake_min": 19,
+    "spo2_promedio": 95.0,
+    "respiracion_promedio": 12.0,
+    "estres_promedio_sueno": null
+  },
   "hrv": {
     "fecha": "2026-03-18",
     "last_night_avg": 85,
