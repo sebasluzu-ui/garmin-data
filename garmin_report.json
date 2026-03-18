@@ -1,5 +1,5 @@
 {
-  "generado": "2026-03-18 13:57",
+  "generado": "2026-03-18 15:59",
   "fecha": "2026-03-18",
   "sueno": {
     "fecha": "2026-03-18",
@@ -42,7 +42,7 @@
   "fc_reposo": 39.0,
   "body_battery": {
     "charged": 42,
-    "drained": 23
+    "drained": 50
   },
   "actividades_recientes": [
     {
