@@ -1,49 +1,12 @@
 {
-  "generado": "2026-03-24 22:01",
-  "fecha": "2026-03-24",
-  "sueno": {
-    "fecha": "2026-03-24",
-    "sleep_score": null,
-    "horas_dormido": 7.0,
-    "deep_min": 116,
-    "light_min": 203,
-    "rem_min": 101,
-    "awake_min": 6,
-    "spo2_promedio": 95.0,
-    "respiracion_promedio": 11.0,
-    "estres_promedio_sueno": null
-  },
-  "hrv": {
-    "fecha": "2026-03-24",
-    "last_night_avg": 83,
-    "last_night_5min_high": 123,
-    "weekly_avg": 88,
-    "status": "BALANCED",
-    "baseline_balanced_low": 79,
-    "baseline_balanced_upper": 99
-  },
-  "predisposicion_entrenamiento": {
-    "fecha": "2026-03-24",
-    "score": 75,
-    "level": "HIGH",
-    "feedback": "RESTED_AND_READY",
-    "sleep_score": 88,
-    "sleep_score_pct": 86,
-    "recovery_time_hours": 19.4,
-    "recovery_feedback": "MODERATE",
-    "acute_load": 857,
-    "acwr_pct": 91,
-    "acwr_feedback": "GOOD",
-    "hrv_feedback": "VERY_GOOD"
-  },
-  "training_status": {
-    "vo2max": 55.2
-  },
-  "fc_reposo": 35.0,
-  "body_battery": {
-    "charged": 43,
-    "drained": 74
-  },
+  "generado": "2026-03-25 06:14",
+  "fecha": "2026-03-25",
+  "sueno": {},
+  "hrv": {},
+  "predisposicion_entrenamiento": {},
+  "training_status": {},
+  "fc_reposo": null,
+  "body_battery": {},
   "actividades_recientes": [
     {
       "activityId": 22282238548,
