@@ -1,5 +1,5 @@
 {
-  "generado": "2026-03-26 11:30",
+  "generado": "2026-03-26 16:32",
   "fecha": "2026-03-26",
   "sueno": {
     "fecha": "2026-03-26",
@@ -24,12 +24,12 @@
   },
   "predisposicion_entrenamiento": {
     "fecha": "2026-03-26",
-    "score": 43,
-    "level": "LOW",
-    "feedback": "FOCUS_ON_ENERGY_LEVELS",
+    "score": 50,
+    "level": "MODERATE",
+    "feedback": "LISTEN_TO_YOUR_BODY",
     "sleep_score": 71,
     "sleep_score_pct": 56,
-    "recovery_time_hours": 36.0,
+    "recovery_time_hours": 27.8,
     "recovery_feedback": "MODERATE",
     "acute_load": 994,
     "acwr_pct": 87,
@@ -42,7 +42,7 @@
   "fc_reposo": 37.0,
   "body_battery": {
     "charged": 51,
-    "drained": 39
+    "drained": 47
   },
   "actividades_recientes": [
     {
