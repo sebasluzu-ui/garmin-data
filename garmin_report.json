@@ -1,5 +1,5 @@
 {
-  "generado": "2026-03-30 12:17",
+  "generado": "2026-03-30 14:20",
   "fecha": "2026-03-30",
   "sueno": {
     "fecha": "2026-03-30",
@@ -24,12 +24,12 @@
   },
   "predisposicion_entrenamiento": {
     "fecha": "2026-03-30",
-    "score": 44,
-    "level": "LOW",
+    "score": 50,
+    "level": "MODERATE",
     "feedback": "LISTEN_TO_YOUR_BODY",
     "sleep_score": 81,
     "sleep_score_pct": 72,
-    "recovery_time_hours": 31.3,
+    "recovery_time_hours": 23.3,
     "recovery_feedback": "MODERATE",
     "acute_load": 794,
     "acwr_pct": 96,
