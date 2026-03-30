@@ -1,48 +1,48 @@
 {
-  "generado": "2026-03-29 12:12",
-  "fecha": "2026-03-29",
+  "generado": "2026-03-30 10:13",
+  "fecha": "2026-03-30",
   "sueno": {
-    "fecha": "2026-03-29",
+    "fecha": "2026-03-30",
     "sleep_score": null,
-    "horas_dormido": 6.7,
-    "deep_min": 96,
-    "light_min": 239,
-    "rem_min": 68,
-    "awake_min": 23,
+    "horas_dormido": 7.2,
+    "deep_min": 87,
+    "light_min": 257,
+    "rem_min": 86,
+    "awake_min": 48,
     "spo2_promedio": 94.0,
-    "respiracion_promedio": 12.0,
+    "respiracion_promedio": 13.0,
     "estres_promedio_sueno": null
   },
   "hrv": {
-    "fecha": "2026-03-29",
-    "last_night_avg": 72,
-    "last_night_5min_high": 131,
+    "fecha": "2026-03-30",
+    "last_night_avg": 84,
+    "last_night_5min_high": 130,
     "weekly_avg": 79,
     "status": "UNBALANCED",
     "baseline_balanced_low": 80,
     "baseline_balanced_upper": 99
   },
   "predisposicion_entrenamiento": {
-    "fecha": "2026-03-29",
-    "score": 20,
-    "level": "POOR",
-    "feedback": "TIME_TO_SLOW_DOWN",
-    "sleep_score": 77,
-    "sleep_score_pct": 65,
-    "recovery_time_hours": 53.4,
-    "recovery_feedback": "POOR",
-    "acute_load": 942,
-    "acwr_pct": 91,
+    "fecha": "2026-03-30",
+    "score": 44,
+    "level": "LOW",
+    "feedback": "LISTEN_TO_YOUR_BODY",
+    "sleep_score": 81,
+    "sleep_score_pct": 72,
+    "recovery_time_hours": 31.3,
+    "recovery_feedback": "MODERATE",
+    "acute_load": 794,
+    "acwr_pct": 96,
     "acwr_feedback": "GOOD",
     "hrv_feedback": "MODERATE"
   },
   "training_status": {
     "vo2max": 54.9
   },
-  "fc_reposo": 38.0,
+  "fc_reposo": 37.0,
   "body_battery": {
-    "charged": 35,
-    "drained": 44
+    "charged": 51,
+    "drained": 13
   },
   "actividades_recientes": [
     {
