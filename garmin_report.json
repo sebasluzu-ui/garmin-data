@@ -1,74 +1,76 @@
 {
-  "date": "2026-04-06",
-  "lastUpdated": "2026-04-06T11:22:12Z",
-  "sleep": {
-    "duration_hours": 7.19,
-    "deep_sleep_percent": 17.8,
-    "light_sleep_percent": 63.2,
-    "rem_sleep_percent": 19.0,
-    "sleep_quality": "GOOD",
+  "generado": "2026-04-06 13:22",
+  "fecha": "2026-04-06",
+  "sueno": {
+    "fecha": "2026-04-06",
     "sleep_score": 86,
-    "notes": "Excelente recuperación nocturna"
+    "horas_dormido": 7.19,
+    "deep_min": 77,
+    "light_min": 273,
+    "rem_min": 82,
+    "awake_min": 15,
+    "spo2_promedio": 96.0,
+    "respiracion_promedio": 12.0,
+    "estres_promedio_sueno": null
   },
   "hrv": {
+    "fecha": "2026-04-06",
     "last_night_avg": 96,
+    "last_night_5min_high": 141,
     "weekly_avg": 86,
     "status": "BALANCED",
-    "baseline": {
-      "balanced_low": 78,
-      "balanced_high": 97
-    },
-    "feedback": "HRV excelente, sistema nervioso en equilibrio",
-    "assessment": "VERY_GOOD"
+    "baseline_balanced_low": 78,
+    "baseline_balanced_upper": 97,
+    "feedback": "HRV excelente, sistema nervioso en equilibrio"
   },
-  "body_battery": {
-    "current": 94,
-    "charged": 62,
-    "drained": 11,
-    "status": "HIGH",
-    "timestamp": "2026-04-06T11:26:17Z",
-    "feedback": "Excelente recuperación - batería muy cargada"
-  },
-  "training_readiness": {
+  "predisposicion_entrenamiento": {
+    "fecha": "2026-04-06",
     "score": 29,
     "level": "LOW",
+    "feedback": "HIGH_RECOVERY_NEEDS",
     "sleep_score": 86,
     "sleep_factor": 82,
-    "recovery_time_hours": 0.84,
+    "recovery_hours": 0.84,
     "recovery_factor": 28,
     "hrv_factor": 100,
     "hrv_assessment": "VERY_GOOD",
     "stress_factor": 97,
-    "stress_assessment": "GOOD",
-    "advice": "Buena calidad de sueño y HRV excelente, pero se necesita más tiempo de recuperación antes de entrenamientos intensos"
+    "stress_assessment": "GOOD"
   },
-  "resting_heart_rate": {
-    "value": 37,
-    "min": 36,
-    "max": 73,
+  "body_battery": {
+    "fecha": "2026-04-06",
+    "actual": 94,
+    "cargado": 62,
+    "drenado": 11,
+    "status": "HIGH",
+    "feedback": "Excelente recuperación - batería muy cargada"
+  },
+  "frecuencia_cardiaca": {
+    "fecha": "2026-04-06",
+    "resting": 37,
+    "minima": 36,
+    "maxima": 73,
     "status": "EXCELLENT"
   },
-  "daily_stats": {
-    "total_steps": 43,
-    "total_distance_meters": 36,
-    "calories_burned": 719,
-    "activity_time_seconds": null
+  "estadisticas_diarias": {
+    "pasos_totales": 43,
+    "distancia_metros": 36,
+    "calorias_quemadas": 719
   },
-  "recent_activities": [
+  "actividades_recientes": [
     {
-      "date": "2026-04-05",
-      "type": "Natación en piscina",
-      "distance_meters": 50,
-      "duration_seconds": 208,
-      "moving_duration_seconds": 71.6,
-      "calories": 19,
-      "average_hr": 79,
-      "max_hr": 112,
-      "swim_cadence": 34,
-      "average_swolf": 56
+      "fecha": "2026-04-05",
+      "tipo": "Natación en piscina",
+      "distancia_metros": 50,
+      "duracion_segundos": 208,
+      "calorias": 19,
+      "fc_promedio": 79,
+      "fc_maxima": 112,
+      "cadencia_nado": 34,
+      "swolf_promedio": 56
     }
   ],
-  "recommendations": [
+  "recomendaciones": [
     "Descansa hoy o realiza actividades muy ligeras",
     "Tu HRV está excelente - buen momento para recuperarte",
     "El sueño fue muy bueno (86 score)",
